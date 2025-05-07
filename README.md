@@ -37,7 +37,7 @@ A multi-user, full-stack exam preparation platform built using Flask and Vue.js.
 - **Google Chat Webhooks** for notifications
 
 ### 🎨 Frontend
-- **Vue.js** (CLI-based) with **Vue Router**
+- **Vue.js** with **Vue Router**
 - **Bootstrap** for responsive UI
 
 ---
